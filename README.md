@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Pra-har
-- 👀 I’m interested in cricket
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi Im Pratham Harode
+Working as Full Stack Developer In Bangalore
+Good Communication Skills 
+Hobbies - Cricket and Football
 
 <!---
 Pra-har/Pra-har is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
